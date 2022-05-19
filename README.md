@@ -1,4 +1,5 @@
 # Classification Iris
 - Pandas
-- XGBoost
 - Seaborn
+- XGBoost
+- Scikit-learn
