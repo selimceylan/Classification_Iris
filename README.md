@@ -1,2 +1,4 @@
-# Classification_Iris
-This repository contains classification, data manipulation and data visualization
+# Classification Iris
+- Pandas
+- XGBoost
+- Seaborn
